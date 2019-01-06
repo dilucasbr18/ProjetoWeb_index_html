@@ -1,0 +1,6 @@
+/target/classes/br/com/wagner/conexao/
+/target/classes/br/com/wagner/controller/
+/target/classes/br/com/wagner/model/
+/target/classes/br/com/wagner/persistencia/
+/target/test-classes/br/com/wagner/testedao/
+/src/test/java/br/com/wagner/testedao/
